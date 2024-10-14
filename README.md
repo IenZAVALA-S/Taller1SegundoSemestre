@@ -1,8 +1,8 @@
 # Taller1SegundoSemestre
-Objetos creados en main()
-
 Ien Zavala Salinas, 21.216.002-4, ien.zavala@alumnos.ucn.cl, paralelo C1
 Nota: Archivo TALLER_1_2DO_SEMESTRE es el main
+Objetos creados en main
+
 biblioteca[100]*
 Array estático que almacena punteros a objetos de tipo MaterialBib, que pueden ser instancias de Libro o Revista con capacidad de 100
 
